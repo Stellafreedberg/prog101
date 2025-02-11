@@ -1,8 +1,8 @@
 # Fill in the blanks so the answers are all 2. Use help for unfamiliar functions
 # if necessary.
 log10(100)
-0.5(4)
-ceiling(2.1)
+1/2*(4)
+ceiling(1.9)
 
 # Find the functions for cosine and sine. What are the cosine and sine of 0?
 
